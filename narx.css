@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+.rx{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.narx_{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+.narx_{
+    background-color: #f2f2f2;
+}
+
+.narx_{
+    transition: background-color 0.3s ease;
+}
+
+.narx_:hover{
+    background-color: #ddd;
+}
+
+.narx_ h2{
+    margin: 0;
+    padding: 10px;
+}
+
+.narx_ p{
+    margin: 0;
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: #333;
+}
+
+a:hover{
+    color: #666;
+}
+
+
+
+a img{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    top: 100%;
+    display: flex;
+    justify-content: center;
+    margin-left: 700px;
+}
+
+
